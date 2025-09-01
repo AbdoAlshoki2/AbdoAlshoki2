@@ -10,7 +10,7 @@ I am interested about AI and software development, and I am eager to continue le
 ## 📫 Reach Me
 - Email: **abdelrahmanalshoki@gmail.com**
 - Discord: `Alshoki#7963`
-- [Abdelrahman Alshoki](https://www.facebook.com/abdelrahman.alshoki)
+- [Abdelrahman Alshoki](https://www.facebook.com/alshoki.138/)
 
 💬 Feel free to reach out for collaborations, questions, or just to chat!
 
