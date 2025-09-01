@@ -1,26 +1,42 @@
+# Hi 👋, I'm Abdelrahman Mohamed
 
-<h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
-<h3 align="center">I am a student at the Faculty of Computers and Artificial Intelligence at Cairo University</h3>
+I am a recently graduated student from the **Faculty of Computers and Artificial Intelligence at Cairo University**, specializing in Artificial Intelligence.  
+I am interested about AI and software development, and I am eager to continue learning and expanding my skills.
 
+📊 **Check out my GitHub stats below** — I'm always learning and coding!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoalshoki2&label=Profile%20views&color=0e75b6&style=flat" alt="abdoalshoki2" /> </p>
+---
 
-- 💬 Ask me about **Anything**
+## 📫 Reach Me
+- Email: **abdelrahmanalshoki@gmail.com**
+- Discord: `Alshoki#7963`
+- [Abdelrahman Alshoki](https://www.facebook.com/abdelrahman.alshoki)
 
-- 📫 How to reach me **Abdelrahmanalshoki@gmail.com**
+💬 Feel free to reach out for collaborations, questions, or just to chat!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdelrahman alshoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman alshoki" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdelrahman_alshoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrahman_alshoki" height="30" width="40" /></a>
-<a href="https://discord.gg/Alshoki#7963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alshoki#7963" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoalshoki2&show_icons=true&locale=en&layout=compact" alt="abdoalshoki2" /></p>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> **C++**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> **Python**
+- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="30" height="30"/> **PyTorch**
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="30" height="30" /> **Hugging Face**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30"/> **FastAPI**
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoalshoki2&show_icons=true&locale=en" alt="abdoalshoki2" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoalshoki2&" alt="abdoalshoki2" /></p>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=abdoalshoki2&show_icons=true&theme=radical&locale=en)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoalshoki2&layout=compact&theme=radical)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=abdoalshoki2&theme=radical)
+
+</div>
+
+---
+
+✨ *Learning. Coding. Contributing.*  
