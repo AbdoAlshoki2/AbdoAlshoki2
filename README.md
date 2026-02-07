@@ -3,8 +3,6 @@
 I am a recently graduated student from the **Faculty of Computers and Artificial Intelligence at Cairo University**, specializing in Artificial Intelligence.  
 I am interested about AI and software development, and I am eager to continue learning and expanding my skills.
 
-📊 **Check out my GitHub stats below** — I'm always learning and coding!
-
 ---
 
 ## 📫 Reach Me
