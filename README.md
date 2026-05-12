@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdelrahman Mohamed
 
-I am a recently graduated student from the **Faculty of Computers and Artificial Intelligence at Cairo University**, specializing in Artificial Intelligence.  
+I am a graduate from the **Faculty of Computers and Artificial Intelligence at Cairo University**, specializing in Artificial Intelligence.  
 I am interested about AI and software development, and I am eager to continue learning and expanding my skills.
 
 ---
